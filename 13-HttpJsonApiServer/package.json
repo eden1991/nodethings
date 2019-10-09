@@ -1,0 +1,15 @@
+{
+  "name": "13-HttpJsonApiServer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "http-json-api-server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "date-and-time": "^0.10.0"
+  }
+}
